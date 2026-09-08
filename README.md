@@ -70,6 +70,8 @@ Alanlar:
 
 GPU verisi alınamazsa (entegre/yok) `0,0` gönderilir, ekranda da sıcaklık gösterilmez.
 
+<img width="3072" height="4096" alt="IMG_20260908_164804" src="https://github.com/user-attachments/assets/406986a7-9e43-45ea-8cab-be37a4a71141" />
+
 ## Notlar
 
 - CPU sıcaklığı Windows'ta çoğu zaman okunamaz, o durumda ekranda sıcaklık gösterilmez.
