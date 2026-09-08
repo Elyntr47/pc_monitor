@@ -18,6 +18,8 @@ PC'nin CPU, RAM ve GPU değerlerini gösteren küçük bir izleyici projesi. ESP
 | OLED | SSD1306 128x64, I2C (0x3C) |
 | Bağlantı kablo | 4 adet (VCC, GND, SDA, SCL) |
 
+<img width="474" height="324" alt="OIP-4158305239" src="https://github.com/user-attachments/assets/417bdf7d-86e9-4b47-a97d-9b71f2fd3afd" />
+
 
 ## Kurulum
 
